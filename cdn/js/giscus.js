@@ -11,5 +11,4 @@
   data-lang="en"
   crossorigin="anonymous"
   async
->
 </script>
