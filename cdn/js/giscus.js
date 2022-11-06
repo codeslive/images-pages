@@ -1,4 +1,4 @@
-<script
+<script>
   src="https://giscus.app/client.js"
   data-repo="<codeslive>/<giscus>"
   data-repo-id="..."
