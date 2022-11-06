@@ -1,6 +1,6 @@
 <script
   src="https://giscus.app/client.js"
-  data-repo="<username>/<repository>"
+  data-repo="<codeslive>/<giscus>"
   data-repo-id="..."
   data-category="..."
   data-category-id="..."
